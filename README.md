@@ -1,14 +1,15 @@
 ## Hello world 🤖
   
-<img align="left" justify="center" alt="programming all night long" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="left" justify="center" alt="programming all night long" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"
+/>
 <h3 align="right">
   Who's Anthony Victor?  
 </h3>
 <p align="right"> 
-  I'm a brazilian Junior dev seeking to learn everyday, and help as much as I can!<br>
+  I'm a brazilian Junior dev seeking to learn everyday, <br>and help as much as I can!<br>
   I started with VB.net, creating little applications for personal use.<br>
-  Nowadays, I work with Javascript (Typescript) stack in Next.js to develop applications.<br>
-  First I want to join a team so i can improve my skills, and then become a great developer!.
+  Nowadays, I work with Javascript (Typescript) stack in Next.js.<br>
+  I would like to join a team so i can improve my skills, and then become a great developer!.
 </p>
 
 <div style="display: inline_block; padding: 2px;" align="right">
